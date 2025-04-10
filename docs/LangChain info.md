@@ -1,0 +1,5 @@
+## Setup Tutorials (with docker)
+- [Build and Deploy a LangChain-Powered Chat App with Docker and Streamlit](https://www.docker.com/blog/build-and-deploy-a-langchain-powered-chat-app-with-docker-and-streamlit/)
+- [Self-hosting LangSmith with Docker](https://docs.smith.langchain.com/self_hosting/installation/docker)
+- [Langchain + Docker + Neo4j + Ollama stack](https://github.com/docker/genai-stack)
+- [DockerHub: LangChain](https://hub.docker.com/r/langchain/langchain)
