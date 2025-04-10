@@ -1,0 +1,15 @@
+{
+  "folderName": "docs/SDK/Source/Classes",
+  "fileNames": [],
+  "existingSymbol": "class*.md",
+  "replacePattern": "*.md",
+  "regExpState": {
+    "regExp": "",
+    "flags": [],
+    "withRegExpForReplaceSymbols": false
+  },
+  "tags": [
+    ""
+  ],
+  "viewType": "folder"
+}

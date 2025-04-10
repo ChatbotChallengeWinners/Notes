@@ -1,0 +1,334 @@
+{
+  "main": {
+    "id": "34edafc4189773f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3e6cf9ff7011372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76dac260f42e117b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jq savegame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jq savegame"
+            }
+          },
+          {
+            "id": "c042e6d1df0cd0f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/ClassDocsGenerated/Reference/Classes/FEquippedPersonality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FEquippedPersonality"
+            }
+          },
+          {
+            "id": "b28e9c36aea043e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/ClassDocsGenerated/Reference/Classes/AInventoryItem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AInventoryItem"
+            }
+          },
+          {
+            "id": "f5026c28149bf5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tikzjax test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tikzjax test"
+            }
+          },
+          {
+            "id": "5bcb25ba982533b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "f1d8d46edb4236ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "2de035f9cae6cc52",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2021-11-22-22-54-02.png"
+              },
+              "icon": "lucide-image",
+              "title": "2021-11-22-22-54-02"
+            }
+          },
+          {
+            "id": "34fe028cd952c77b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2021-11-22-22-52-49.png"
+              },
+              "icon": "lucide-image",
+              "title": "2021-11-22-22-52-49"
+            }
+          },
+          {
+            "id": "3443a8c4c12d95a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "801f6bc7b5758c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Systems/Chivalry2/Tables/CharacterStats DataTable.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CharacterStats DataTable"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36b152da36178867",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb2798b0df71e648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "414ba2cfcffa1a57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5512bffaefcfbd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "weapontracers",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8703147a67d8a25c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 453.5
+  },
+  "right": {
+    "id": "bb09c236cdf39499",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d4922eff1878ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d613a31e1f7233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Tutorials/T3 Create your first Blueprint Mod.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for T3 Create your first Blueprint Mod"
+            }
+          },
+          {
+            "id": "9a4683bb7835923a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Tutorials/T3 Create your first Blueprint Mod.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from T3 Create your first Blueprint Mod"
+            }
+          },
+          {
+            "id": "dcc0aec2420725e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b474a592dad413ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Tutorials/T3 Create your first Blueprint Mod.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of T3 Create your first Blueprint Mod"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3443a8c4c12d95a4",
+  "lastOpenFiles": [
+    "docs/index.md",
+    "2021-11-22-22-49-26.png",
+    "2021-11-22-22-52-49.png",
+    "2021-11-22-22-54-02.png",
+    "docs/blog/index.md",
+    "docs/blog/posts/hello-world.md",
+    "Untitled 1.md",
+    "cornerjew cheat analysis.md",
+    "docs/ClassDocsGenerated/Reference/Classes/AInventoryItem.md",
+    "tikzjax test.md",
+    "docs/ClassDocsGenerated/Reference/Classes/ATBLGameMode.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FCustomizationPreset.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FCustomizationMap.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FCustomizationEntry.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FContextVoEntry.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FCharacterInfo.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FAssetIdWhitelistTableRow.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FAIPersonality.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FActorDisplayInfo.md",
+    "docs/Mods/DripSync.md",
+    "docs/ClassDocsGenerated/Reference/Nodes/TBLCheatManager/nodes/RespawnImmediately.md",
+    "docs/ClassDocsGenerated/Reference/Classes/UTBLCheatManager.md",
+    "docs/ClassDocsGenerated/Reference/Nodes/CTBase/nodes/Apply.md",
+    "docs/ClassDocsGenerated/Reference/Classes/UCustomizationLibrary.md",
+    "docs/ClassDocsGenerated/Reference/Classes/ATBLCharacter.md",
+    "docs/ClassDocsGenerated/Reference/Classes/FCustomizationContext.md",
+    "docs/Systems/Unchained/ModLoading/Mod Loader Command Line Arguments.md",
+    "docs/Systems/Unchained/ModLoading/Mod Loader Flags.md",
+    "docs/Systems/Unchained/ModLoading/Mod Loader GUI.md",
+    "docs/ClassDocsGenerated/Reference/test.py",
+    "docs/ClassDocsGenerated/Reference/copy/test.py",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WebImageWidget/img/nd_img_SetUrl.png",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WebImageWidget/img/nd_img_OnImageDownloaded.png",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WeaponRackComponent/img/nd_img_RefillItemsForPawn.png",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WidgetVisibilityComponent/img/nd_img_SetVisibile.png",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WidgetVisibilityComponent/img/nd_img_HasWidgetCompletedFadeOut.png",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WidgetVisibilityComponent/img/nd_img_NotifyWidgetCompletedFadeOut.png",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WidgetVisibilityComponent/img/nd_img_IsVisible.png",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WebImageWidget/nodes",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WebImageWidget/img",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WidgetVisibilityComponent/nodes",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WeaponRackComponent/img",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WidgetVisibilityComponent/img",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WeaponRackComponent/nodes",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WaterActor/nodes",
+    "docs/ClassDocsGenerated/Reference/copy/Nodes/WaterActor/img",
+    "Untitled.canvas",
+    "docs/Tutorials/Untitled.canvas"
+  ]
+}
