@@ -117,10 +117,14 @@
             "id": "3443a8c4c12d95a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LangChain info.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LangChain info"
             }
           },
           {
@@ -272,6 +276,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -282,6 +292,7 @@
   },
   "active": "3443a8c4c12d95a4",
   "lastOpenFiles": [
+    "index.md",
     "docs/index.md",
     "2021-11-22-22-49-26.png",
     "2021-11-22-22-52-49.png",
@@ -310,7 +321,6 @@
     "docs/ClassDocsGenerated/Reference/Classes/FCustomizationContext.md",
     "docs/Systems/Unchained/ModLoading/Mod Loader Command Line Arguments.md",
     "docs/Systems/Unchained/ModLoading/Mod Loader Flags.md",
-    "docs/Systems/Unchained/ModLoading/Mod Loader GUI.md",
     "docs/ClassDocsGenerated/Reference/test.py",
     "docs/ClassDocsGenerated/Reference/copy/test.py",
     "docs/ClassDocsGenerated/Reference/copy/Nodes/WebImageWidget/img/nd_img_SetUrl.png",
