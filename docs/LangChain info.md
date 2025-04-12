@@ -5,9 +5,8 @@
 - Create embeddings from a website
 
 > [!note]
-> 
-They use llama2 in this tutorial, but you can use any other model instead 
-(e.g. llama3.2, deepseek-r1)
+> They use llama2 in this tutorial, but you can use any other model instead 
+> (e.g. llama3.2, deepseek-r1)
 
 Docker container: [DockerHub: LangChain](https://hub.docker.com/r/langchain/langchain)
 
