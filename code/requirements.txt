@@ -1,0 +1,7 @@
+dotenv
+langchain
+langchain-community
+langchain-chroma
+langchain-experimental
+streamlit
+streamlit-markdown
