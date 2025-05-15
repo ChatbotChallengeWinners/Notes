@@ -1,7 +1,9 @@
 dotenv
+beautifulsoup4
 langchain
 langchain-community
 langchain-chroma
 langchain-experimental
+langchain-openai
 streamlit
 streamlit-markdown

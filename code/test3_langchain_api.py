@@ -5,8 +5,6 @@ from langchain_core.messages import ToolMessage, HumanMessage, AIMessage
 
 load_dotenv()
 
-model_name = "MFDoom/deepseek-r1-tool-calling:7b"
-model_name = "llama3.2"
 llm = ChatOpenAI(
     model="meta-llama-3.1-8b-instruct",
     # model="meta-llama-3.1-8b-instruct",

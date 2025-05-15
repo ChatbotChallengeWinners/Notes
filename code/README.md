@@ -46,5 +46,6 @@ Don't forget the [requirements.txt](requirements.txt)
 - uses websites for context
 - I'm using streamlit-markdown here to enable mermaid diagrams
     - some models are terrible at this
-- [test4_chroma.py](test4_chroma.py) handles the RAG chain
+- [test4_chroma_api.py](test4_chroma_api.py) handles the RAG chain
+- context chains are generated on every response rn
 
