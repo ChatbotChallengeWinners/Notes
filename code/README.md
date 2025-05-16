@@ -42,7 +42,6 @@ Don't forget the [requirements.txt](requirements.txt)
 
 ### [test4_langchain_history_chroma_api.py](test4_langchain_history_chroma_api.py)
 - Example of RAG (Retrieval Augmented Generation)
-- No system prompt rn
 - uses websites for context
 - I'm using streamlit-markdown here to enable mermaid diagrams
     - some models are terrible at this
