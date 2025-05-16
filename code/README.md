@@ -48,3 +48,4 @@ Don't forget the [requirements.txt](requirements.txt)
 - [test4_chroma_api.py](test4_chroma_api.py) handles the RAG chain
 - context chains are generated on every response rn
 
+    ![Screenshot 2025-05-16 034607](https://github.com/user-attachments/assets/ccfad48d-e7df-46d7-9f07-e62375c4fccf)
